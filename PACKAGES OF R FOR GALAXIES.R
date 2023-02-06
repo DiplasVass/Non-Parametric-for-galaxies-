@@ -1,4 +1,4 @@
-.libPaths("/home/testuser/Rlib")
+
 
 groups = read.table("groups.txt" , sep="")
 groups
